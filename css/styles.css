@@ -2,14 +2,8 @@ body {
   background: #e4e4e4;
 }
 #bar {
-  /* background-color: #000000; */
   border-top: 50px solid #e4e4e4;
-  /* border-bottom: 8px solid #ffffff; */
   margin: 10px auto -15px auto;
-  /* margin-top: 10px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: auto; */
 }
 #roll {
   background-color: #000000;
