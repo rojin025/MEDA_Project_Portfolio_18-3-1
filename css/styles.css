@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Bree+Serif|Krona+One|Nothing+You+Could+Do');
 body {
   background: #e4e4e4;
 }
@@ -11,10 +12,15 @@ body {
   border-bottom: 5px solid #ffffff;
   margin-top: -35px;
   margin-bottom: 0px;
+  font-family: Krona;
+  text-transform: uppercase;
+}
+#head {
+  font
 }
 header {
   color: #ffffff;
-  font-family: Noto;
+  font-family: ;
   font-size: 2em;
   text-align: center;
   font-weight: bold;
@@ -29,5 +35,6 @@ header {
 }
 
 .dummys {
-  image width: 250px auto;
+  margin: 2%;
+
 }
