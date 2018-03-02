@@ -8,9 +8,9 @@ body {
 }
 #roll {
   background-color: #000000;
-  border-top: 40px solid #ffffff;
+  border-top: 5px solid #ffffff;
   border-bottom: 5px solid #ffffff;
-  margin-top: -35px;
+  margin-top: 0px;
   margin-bottom: 0px;
   font-family: Krona One;
   text-transform: uppercase;
@@ -44,5 +44,15 @@ h1 {
 
 .dummys {
   margin: 2%;
+}
 
+#footer {
+  background: black;
+  border-top: 150px solid black;
+  border-bottom: 150px solid black;
+  margin: 5% auto auto auto;
+}
+.fconter {
+  color: white;
+  
 }
