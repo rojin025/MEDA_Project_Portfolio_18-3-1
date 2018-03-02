@@ -18,6 +18,9 @@ body {
 #head {
   font-family: Bree serif;
   font-weight:lighter;
+  border-bottom: 2px solid #ffffff;
+  padding-bottom: 10px;
+  width: 30%;
 }
 header {
   color: #ffffff;
@@ -29,6 +32,10 @@ header {
   position: fixed;
   top: 0;
   width: 100%;
+}
+h1 {
+  font-family: Bree serif;
+  font-weight:lighter;
 }
 .content {
   text-align: center;
