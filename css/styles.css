@@ -18,8 +18,8 @@ body {
 #head {
   font-family: Bree serif;
   font-weight:lighter;
-  border-bottom: 2px solid #ffffff;
-  padding-bottom: 10px;
+  border-bottom: 2px solid black;
+  padding-bottom: 5px;
   width: 30%;
 }
 header {
