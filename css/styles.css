@@ -3,7 +3,7 @@ body {
   background: #e4e4e4;
 }
 #bar {
-  border-top: 50px solid #e4e4e4;
+  border-top: 18px solid #e4e4e4;
   margin: 10px auto -15px auto;
 }
 #roll {
@@ -12,16 +12,17 @@ body {
   border-bottom: 5px solid #ffffff;
   margin-top: -35px;
   margin-bottom: 0px;
-  font-family: Krona;
+  font-family: Krona One;
   text-transform: uppercase;
 }
 #head {
-  font
+  font-family: Bree serif;
+  font-weight:lighter;
 }
 header {
   color: #ffffff;
   font-family: ;
-  font-size: 2em;
+  font-size: 1em;
   text-align: center;
   font-weight: bold;
   overflow: hidden;
